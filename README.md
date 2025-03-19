@@ -15,14 +15,15 @@ I’m a cybersecurity professional with a **B.S. in Cybersecurity & Information 
 ## Projects
 
 ### Digital Forensics Investigation | Class Project | Autopsy
-Conducted a comprehensive digital forensics investigation as part of my coursework. The project involved analyzing a suspected unauthorized access case within an organization, following best forensic practices.
 
-- **Initial Setup**: Collaborated with the legal department to define the scope, obtain necessary permissions, and establish the baseline of expected access.
-- **Evidence Collection**: Used tools like FTK Imager for bit-by-bit copying of workstations, Volatility for volatile memory capture, and Wireshark for network traffic analysis.
-- **Analysis & Reporting**: Investigated system logs, network traffic, and workstation data to determine the nature of the breach. Utilized Autopsy for in-depth examination of disk images, identifying potential security violations.
-- **Conclusion**: Provided a detailed report on findings, including the use of evidence like company policies, AUPs, and NDAs to determine unauthorized access and potential intellectual property theft.
+Conducted a digital forensics investigation as part of my coursework, focusing on unauthorized access and potential intellectual property theft within an organization.
 
-This project enhanced my understanding of digital forensics methodologies, including evidence handling, legal considerations, and data analysis using forensic tools.
+- **Initial Setup** (Hypothetical): In the project scenario, the investigation team would collaborate with the legal department to define the investigation scope, obtain necessary permissions, and establish a baseline of expected access for the suspect. This step was part of the theoretical planning phase of the investigation.
+- **Evidence Collection**: The hands-on portion of the investigation began with the use of **Autopsy** to create a case and ingest a disk image (JSmith_Q1.001). Forensic tools such as FTK Imager were described for bit-by-bit disk imaging, and Volatility was used for volatile memory analysis.
+- **Analysis & Reporting**: Utilized **Autopsy** to analyze disk images and identify sensitive data, including confidential and proprietary documents. Investigated signs of potential steganography and found evidence pointing to a plan to sell proprietary information via **Bitcoin**.
+- **Conclusion**: Wrote a report detailing the findings, showing unauthorized access and data theft, as well as the potential use of **Bitcoin** for illicit transactions.
+
+This project enhanced my understanding of forensic methodologies, evidence collection, and analysis using tools like **Autopsy**, while considering the legal aspects of digital forensics.
 
 ### TryHackMe: Bricks Heist | Vulnerability Exploitation & Incident Investigation
 Completed the **Bricks Heist** room on TryHackMe, where I identified and exploited a vulnerability in a WordPress site (CVE-2024-25600) to gain access to the victim system. My tasks included:
