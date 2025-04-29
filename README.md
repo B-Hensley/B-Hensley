@@ -2,7 +2,7 @@
 **Cybersecurity Analyst | Threat Hunter | Digital Forensics Investigator**
 ---
 ## About Me
-I’m a cybersecurity professional with a **B.S. in Cybersecurity & Information Assurance** from **Western Governors University**. Certified in **CompTIA CySA+**, **Pentest+**, **Security+**, **Network+**, **A+**, **ISC2 SSCP & CC**, **ITIL v4 Foundation**, and **LPI Linux Essentials**, I bring a strong foundation in security operations and technical expertise. My skills include:
+I’m a cybersecurity professional with a **B.S. in Cybersecurity & Information Assurance** from **Western Governors University**. Certified in **CompTIA CySA+**, **Pentest+**, **Security+**, **Network+**, **A+**, **ISC2 SSCP & CC**, **THM SAL1**, **ITIL v4 Foundation**, and **LPI Linux Essentials**, I bring a strong foundation in security operations and technical expertise. My skills include:
 
 - **Security Tools & Platforms:** Splunk, Nessus, Nmap, Wireshark, OWASP ZAP  
 - **Operating Systems:** Linux (Ubuntu, Kali), Windows, MacOS, Android  
