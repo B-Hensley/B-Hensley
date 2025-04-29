@@ -1,6 +1,6 @@
 ## 👋 Welcome!
 
-Hi, I’m **Brenda Hensley** — cybersecurity nerd, Reign-fueled problem solver, and lifelong tech tinkerer.
+### Hi, I’m **Brenda Hensley** — cybersecurity nerd, Reign-fueled problem solver, and lifelong tech tinkerer.
 
 🔐 I break things to make them safer.  
 🧑‍💻 LSR and Cyber Intern by day, CTF addict by night.  
