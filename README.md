@@ -3,7 +3,7 @@
 ### Hi, I’m **Brenda Hensley**, cybersecurity nerd, Reign-fueled problem solver, and lifelong tech tinkerer.
 
 🔐 I break things to make them safer.  
-🧑‍💻 LSR and Cyber Intern by day, CTF addict by night.  
+🧑‍💻 LSR and Open-Source Security Lead by day, CTF addict by night.  
 🎓 Advisory Board Member for the SCCTC IT/Cybersecurity Program.
 
 ---
@@ -11,7 +11,7 @@
 ## 💼 Current Projects
 
 - 🧩 **Exploring new challenges** in Capture the Flag (CTF) competitions to sharpen practical skills  
-- 🖥️ **Contributing to open-source cybersecurity tools**  
+- 🖥️ **Contributing to open-source projects**  
 - 📦 **Contributed to confidential cybersecurity projects** I can’t share publicly
 
 ---
