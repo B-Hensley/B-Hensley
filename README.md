@@ -10,9 +10,14 @@
 
 ## 💼 Current Projects
 
-- 🧩 **Exploring new challenges** in Capture the Flag (CTF) competitions to sharpen practical skills  
-- 🖥️ **Contributing to open-source projects**  
-- 📦 **Contributed to confidential cybersecurity projects** I can’t share publicly
+* 🖥️ **CodeSphere** — My end-to-end AppSec/DevSecOps contributions on an open-source web app.  
+  - CI/CD security pipelines (Gitleaks, CodeQL, Semgrep, Dependabot, OWASP ZAP)  
+  - Custom static-analysis rules tuned to reduce false positives  
+  - Threat modeling docs and contributor security guidelines  
+  - Mentoring a growing security team (now 4 women strong)
+    
+* 🧩 Exploring new challenges in Capture the Flag (CTF) competitions  
+* 📦 Confidential cybersecurity projects (private)
 
 ---
 
