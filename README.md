@@ -16,7 +16,8 @@
   - Threat modeling docs and contributor security guidelines  
   - Mentoring a growing security team (now 4 women strong)
     
-* 🧩 Exploring new challenges in Capture the Flag (CTF) competitions  
+* 🧩 Exploring new challenges in Capture the Flag (CTF) competitions
+  - *DoD Cyber Sentinel Challenge June 2025*
 * 📦 Confidential cybersecurity projects (private)
 
 ---
