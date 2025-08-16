@@ -150,7 +150,7 @@ Collaborated on a React/Node.js expense tracker by implementing input validation
 ## 🌍 Find Me Online
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-hensley-)  
-[![TamperTantrum Labs](https://img.shields.io/badge/-Portfolio-FF4088?logo=About.me&logoColor=white)](https://tampertantrumlabs.com) 
+[![TamperTantrum Labs](https://img.shields.io/badge/TamperTantrum%20Labs-Visit%20Site-ff4088?logo=data:image/png;base64,<BASE64-FAVICON>)](https://tampertantrumlabs.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?logo=About.me&logoColor=white)](https://brendahensley.tech)  
 [![TryHackMe](https://img.shields.io/badge/-TryHackMe-212C42?logo=tryhackme&logoColor=red)](https://tryhackme.com/p/b-hensley)  
 
@@ -161,11 +161,8 @@ Collaborated on a React/Node.js expense tracker by implementing input validation
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=b-hensley&show_icons=true&theme=radical)
 
 ## 🐍 Contribution Snake
+![Snake (light)](https://raw.githubusercontent.com/B-Hensley/B-Hensley/output/github-snake.svg#gh-light-mode-only)
+![Snake (dark)](https://raw.githubusercontent.com/B-Hensley/B-Hensley/output/github-snake-dark.svg#gh-dark-mode-only)
 
-![Snake](https://raw.githubusercontent.com/b-hensley/b-hensley/output/github-contribution-grid-snake.svg)
-
-## 🌌 GitHub Skyline
-
-Check out my 3D contribution graph: [GitHub Skyline](https://skyline.github.com/b-hensley/2025)
 
 
